@@ -1,0 +1,16 @@
+{
+  "format": "svg",
+  "noFill": true,
+  "fill": "#ffffff",
+  "pixel_per_pt": 3,
+  "search_system": false,
+  "override_math": true,
+  "font_families": [],
+  "preamable": {
+    "shared": "#let foreground = if THEME == \"dark\" { white } else { black }\n#set text(fill: foreground, size: SIZE)\n#set page(width: WIDTH, height: HEIGHT)\n#let scr(it) = text(\n  features: (\"ss01\",),\n  box($cal(it)$),\n)",
+    "math": "#set page(margin: (y: 0pt, x: 0pt))\n#set align(horizon)\n#show: align.with(center)\n#let map = $lozenge$\n#let mlet = $mono(\"let\")$\n#let from = $mono(\"from\")$\n#let into = $mono(\"into\")$\n#let match = $mono(\"match\")$\n#let some = $mono(\"some\")$\n#let null = $mono(\"null\")$",
+    "code": "#set page(margin: (y: 1em, x: 0pt))"
+  },
+  "plugin_version": "0.10.0",
+  "autoDownloadPackages": true
+}

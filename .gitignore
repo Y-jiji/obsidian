@@ -1,3 +1,6 @@
 debug.typ
-.obsidian/plugins/**
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/typst/packages
+.obsidian/plugins/**/*.wasm
 .pandoc/**

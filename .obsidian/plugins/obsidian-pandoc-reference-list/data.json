@@ -1,0 +1,12 @@
+{
+  "pathToPandoc": "/usr/bin/pandoc",
+  "tooltipDelay": 400,
+  "zoteroGroups": [],
+  "renderCitations": true,
+  "renderCitationsReadingMode": true,
+  "renderLinkCitations": false,
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/ieee-with-url.csl",
+  "pathToBibliography": "2-Area/bibliography.bib",
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true
+}

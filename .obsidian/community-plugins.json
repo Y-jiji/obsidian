@@ -1,10 +1,10 @@
 [
   "typst",
-  "tag-wrangler",
-  "settings-search",
   "obsidian-pandoc-reference-list",
-  "obsidian-kanban",
   "obsidian-shellcommands",
   "command-block-list",
-  "obsidian-spaced-repetition"
+  "obsidian-kanban",
+  "tag-wrangler",
+  "obsidian-spaced-repetition",
+  "settings-search"
 ]
