@@ -1,0 +1,18 @@
+{
+  "textFontFamily": "Libertinus Sans",
+  "monospaceFontFamily": "Fira Code",
+  "interfaceFontFamily": "Libertinus Sans",
+  "enabledCssSnippets": [
+    "snippet",
+    "minimal",
+    "heading",
+    "image",
+    "cornell"
+  ],
+  "accentColor": "#f00000",
+  "showViewHeader": false,
+  "nativeMenus": false,
+  "baseFontSize": 17,
+  "theme": "system",
+  "cssTheme": ""
+}
