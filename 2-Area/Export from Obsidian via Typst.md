@@ -3,7 +3,7 @@ tags:
   - 𝔗-obsidian
 ---
 
-# Bibliography Management
+# Bibliography Management ^sssss
 
 Use shell command to append bibliography to a `bibliography.bib` under `2-Akashic` . 
 

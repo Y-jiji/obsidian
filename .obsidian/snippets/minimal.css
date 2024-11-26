@@ -10,6 +10,10 @@
 .workspace-leaf-content[data-type=kanban]>.view-header {
   display: none !important;
 }
+/* Hide blockid */
+.cm-blockid:not(.cm-active > *) {
+  color: transparent !important;
+}
 /* Remove redundant decorations & Unify Colors */
 .workspace-tab-header-container *::before {
   display: none
