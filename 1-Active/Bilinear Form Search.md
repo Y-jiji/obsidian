@@ -69,6 +69,10 @@ $$
 forall {x,y:RR^d} :: forall {z,w:RR^(d')} :: (x times.circle z)^T (y times.circle w) = x^T (y w^T) z\
 $$
 
+# Application (Quadratic Assignment Problem)
+
+To my surprise, ChatGPT seems really good at this. (coining motivation ...)
+
 # Application (Linear Regression Optimal Attacking)
 
 This makes much more sense, because the attacker knows what kind of model to pursue. 

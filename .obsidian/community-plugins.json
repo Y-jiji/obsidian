@@ -1,11 +1,10 @@
 [
   "typst",
   "obsidian-pandoc-reference-list",
-  "obsidian-shellcommands",
   "command-block-list",
   "obsidian-kanban",
   "tag-wrangler",
   "obsidian-spaced-repetition",
   "settings-search",
-  "obsidian-git"
+  "obsidian-shellcommands"
 ]

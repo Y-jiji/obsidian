@@ -76,5 +76,5 @@ Git(
 > ::::::
 > Append the installation root to `CMAKE_PREFIX_PATH` ;
 > Pass the installation root to `<PACKAGE_NAME>_ROOT`
-<!--SR:!2024-11-24,3,250-->
+<!--SR:!2024-12-01,7,250-->
 

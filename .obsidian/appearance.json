@@ -12,7 +12,7 @@
   "accentColor": "#f00000",
   "showViewHeader": false,
   "nativeMenus": false,
-  "baseFontSize": 17,
+  "baseFontSize": 16,
   "theme": "system",
   "cssTheme": ""
 }

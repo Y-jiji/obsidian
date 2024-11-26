@@ -35,10 +35,10 @@ But the Thema names should be descriptive.
 > What tag means something is not finished?
 > ::::::
 > 𝔖-planned
-<!--SR:!2024-11-23,3,250-->
+<!--SR:!2024-12-02,8,250-->
 
 > What to do to put something into review queue?
 > ::::::
 > 𝔖-queued
-<!--SR:!2024-11-23,3,250-->
+<!--SR:!2024-12-03,9,250-->
 

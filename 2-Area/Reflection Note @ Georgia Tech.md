@@ -12,9 +12,12 @@ tags:
 
 4. Reading : Sometimes I found reading is hard task for me. It takes a fairly long period of time to read through a piece of text. It is possible that I'm not reading to slow, but instead reading too fast, and unable to capture important information at that speed. (2024-11-09)
 
-5. Uncompleted Knowledge: Maybe most part of my knowledge at the level of 80% of its full details. Therefore, it might be hard to apply them to immediately for their original use. (2024-11-09)
+5. Incomplete Knowledge: Maybe most part of my knowledge at the level of 80% of its full details. Therefore, it might be hard to apply them to immediately for their original use. (2024-11-09)
 
 # Idea (Presentation Skills)
 
 1. My language is still not flexible enough to describing what I want to say. I though that writing helps, but it doesn't. Maybe the reason is writing is still slower then speaking. So think about how to articulate things with spoken words. (2024-11-17)
 
+# Idea (Random Things)
+
+1. When playing Bowling ball, I realized that performance comes from both relaxation and strength. To accelerate the ball, I must have output enough muscle power, but to adjust the direction dynamically, I have to relax the body. Maybe it is the same in research. Concentration and relaxation must be achieved at the same time. (2024-11-22)

@@ -3,4 +3,5 @@ debug.typ
 .obsidian/plugins/*/styles.css
 .obsidian/plugins/typst/packages
 .obsidian/plugins/**/*.wasm
+.obsidian/workspace.json
 .pandoc/**
