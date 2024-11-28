@@ -1,7 +1,7 @@
 {
-  "textFontFamily": "Libertinus Sans",
+  "textFontFamily": "Libertinus Sans,Adobe Kaiti Std",
   "monospaceFontFamily": "Fira Code",
-  "interfaceFontFamily": "Libertinus Sans",
+  "interfaceFontFamily": "Libertinus Sans,Adobe Kaiti Std",
   "enabledCssSnippets": [
     "snippet",
     "minimal",
