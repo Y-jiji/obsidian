@@ -4,4 +4,6 @@ debug.typ
 .obsidian/plugins/typst/packages
 .obsidian/plugins/**/*.wasm
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/community-plugins.json
 .pandoc/**
