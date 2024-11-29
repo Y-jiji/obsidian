@@ -99,7 +99,7 @@ end
 FILE=$(echo '{{file_path:relative}}' | sed 's/\\//g')
 NAME=$(echo '{{file_name}}' | sed 's/\\//g' | sed 's/.md$//g')
 NAME_ESCAPED=$(echo ${NAME} | sed 's/@/\\@/g')
-BIB="2-Area/bibliography.bib"
+BIB="6-Asset/bibliography.bib"
 
 # Convert Document to Typst via Pandoc
 DOC=$(cat "${FILE}" | \
@@ -156,7 +156,7 @@ echo "Finish Exporting \"${NAME}.pdf\"" 1>&2
 FILE=$(echo '{{file_path:relative}}' | sed 's/\\//g')
 NAME=$(echo '{{file_name}}' | sed 's/\\//g' | sed 's/.md$//g')
 NAME_ESCAPED=$(echo ${NAME} | sed 's/@/\\@/g')
-BIB="2-Area/bibliography.bib"
+BIB="6-Asset/bibliography.bib"
 
 # Convert Document to Typst via Pandoc
 DOC=$(cat "${FILE}" | \

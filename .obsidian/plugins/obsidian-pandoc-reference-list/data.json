@@ -6,7 +6,7 @@
   "renderCitationsReadingMode": true,
   "renderLinkCitations": false,
   "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/ieee-with-url.csl",
-  "pathToBibliography": "2-Area/bibliography.bib",
+  "pathToBibliography": "6-Asset/bibliography.bib",
   "enableCiteKeyCompletion": true,
   "showCitekeyTooltips": true
 }
