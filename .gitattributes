@@ -1,2 +1,3 @@
 3-Akashic/** filter=git-crypt diff=git-crypt
+*.pdf -delta
 .gitattributes !filter !diff
