@@ -26,19 +26,10 @@ We don't provide listing here.
 
 But the Thema names should be descriptive. 
 
+BTW: A very interesting fact is that the Japanese say Thema instead of topic as their imported word for this meaning. There are also many things that originates from Deutsch instead of English. 
+
 # $frak(S)$ - Status
 | Tag         | Description                 |
 | ----------- | --------------------------- |
 | #𝔖-planned | Unfinished notes            |
 | #𝔖-queued  | Notes added to review queue |
-
-> What tag means something is not finished?
-> ::::::
-> 𝔖-planned
-<!--SR:!2024-12-02,8,250-->
-
-> What to do to put something into review queue?
-> ::::::
-> 𝔖-queued
-<!--SR:!2024-12-03,9,250-->
-

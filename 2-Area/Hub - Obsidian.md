@@ -11,8 +11,6 @@ Obsidian is a very powerful note-taking software, and it pioneered several note-
 
 Obsidian is also well-known for its community plugins. There are many plugins that provides powerful automation over an obsidian vault, which is basically the folder containing all the notes. However, I believe that most plugins are useless for most people. 
 
-In this vault, I'm trying to experiment on a more flexible and flat folder structure. In previous failures in various method, I learned a lesson that too much presumption about how I will learn things is harmful. Many things I learn is on the brink of mathematics, computer science and logic. Therefore, sometimes it is painful to pick which folder I should put a piece of note, and demotivating for me to take notes (even in class). Mixing things in a flat structure seems making much more sense in my case. 
-
 # Tagging System
 
 I use a Fraktur type + content system for tagging notes. 
@@ -26,9 +24,11 @@ It helps me manage the presentation, format and status of a note.
 Kanban makes it easy to track the status quo of various categories of things. 
 I like Kanban. 
 
-# Spaced Repetition
+# Spaced Repetition can be Useful
 
 I started to use spaced repetition to refresh my ideas. There is a [talk](https://www.youtube.com/watch?v=nF9lJ1rvnFA&ab_channel=ObsidianCommunityTalks) about spaced repetition on Youtube. A very surprising thing is that people can forget their own ideas, and things that they fully understand. For example, I forgot the proof of strong duality for linear programming for several times. Another very important insight is that human brains consolidate knowledge into abstraction through the same process as forgetting. (AI cannot do that for now, at least not in continuous learning. )
+
+However, the current way of how obsidian manages spaced repetition doesn't seems very pleasant for me. Therefore, I want to make another plugin that use markdown as its primary storage format instead of a separate json file. All the cards will also be managed within the storage file, making the cards less disruptive to normal writing flow. 
 
 # Typst is Useful
 
@@ -47,6 +47,12 @@ Daily notes are not useful for me. Some typical use cases are:
 - Setting reminders -- Kanban
 - Making to-do lists -- Kanban
 - Taking Journals -- I don't. I'm already writing all the time. 
+
+# Folder Structure is Useless
+
+I found that for any multi-stage non-computable problem, you can basically never found any fixed strategy that works forever. The optimal thing is to leave enough space for future changes. 
+
+In this vault, I'm trying to experiment on a more flexible and flat folder structure. In previous failures in various method, I learned a lesson that too much presumption about how I will learn things is harmful. Many things I learn is on the brink of mathematics, computer science and logic. Therefore, sometimes it is painful to pick which folder I should put a piece of note, and demotivating for me to take notes (even for lectures). Mixing things in a flat structure seems making much more sense in my case. 
 
 # Language Learning
 
