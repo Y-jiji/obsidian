@@ -60,6 +60,7 @@ eta/2 ||nabla f(x^t)||^2 <= f(x^t) - f(x^(t+1))
 $$
 
 **Question 2** : Take the sum over what we have: 
+
 $$
 sum_(k=0)^t ||nabla f(x^k)||^2 <= sum_(k=1)^t 2/eta (f(x^(k-1))-f(x^k)) = 2/eta (f(x^0) - f(x^t))
 $$

@@ -44,3 +44,6 @@
 .cm-formatting-quote {
   color: transparent !important;
 }
+.pdf-plus-color-palette {
+  display: none !important;
+}
