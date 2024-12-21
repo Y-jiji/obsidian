@@ -10,7 +10,7 @@
     "cornell",
     "label"
   ],
-  "accentColor": "#f00000",
+  "accentColor": "#ff0000",
   "showViewHeader": false,
   "nativeMenus": false,
   "baseFontSize": 16,

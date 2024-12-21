@@ -21,3 +21,5 @@ tags:
 # Idea (Random Things)
 
 1. When playing Bowling ball, I realized that performance comes from both relaxation and strength. To accelerate the ball, I must have output enough muscle power, but to adjust the direction dynamically, I have to relax the body. Maybe it is the same in research. Concentration and relaxation must be achieved at the same time. (2024-11-22)
+
+2. 地瓜不错，可以多吃地瓜 (2024-12-15)

@@ -3,19 +3,14 @@
   "reminders": {
     "3-Akashic/Kanban @ Chore.md": [
       {
-        "title": "Finalize PhD Application",
-        "time": "2024-12-13 15:29",
-        "rowNumber": 13
+        "title": "Put Raft+Luby into Recommendation Letter",
+        "time": "2024-12-21 13:46",
+        "rowNumber": 18
       },
       {
         "title": "Driver License (Read Manual)",
-        "time": "2024-12-13",
+        "time": "2024-12-21 15:46",
         "rowNumber": 15
-      },
-      {
-        "title": "Update 2FA for Georgia Tech Account (Don't know how)",
-        "time": "2024-12-13",
-        "rowNumber": 16
       }
     ]
   },
